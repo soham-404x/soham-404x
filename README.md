@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @milky-way2
+- 👋 Hi
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... cse b.tech
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my email id is : soham61chakrabortty@gmail.com
 I am a growing tech enthusiast
